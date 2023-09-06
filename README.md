@@ -5,8 +5,8 @@ The [Snake_Game_Arduino_Code.ino](https://github.com/rupak10987/Snake-Game-Conso
 [CSV](https://github.com/rupak10987/Snake-Game-Console-Using-ARDUINO_CSE-3208/blob/30bcbcf54c76bdbe9eba636f8bd59e56ccae1904/documentation_materials/bom.csv) file.</br>
 Here Is an [Link](https://www.tinkercad.com/things/0OZxvU5en0a) to the Tinkercad simulation of the Project.
 ## Brief On The Project Development
-This game console was developed as a project for the fullfillment of the academic course CSE-3208 (Sessional Based On Peripherals and Interfacings) </br>
-Course Teacher: [S. M. Mahedy Hasan](https://www.cse.ruet.ac.bd/mahedycseruet)</br>
+This game console was developed as a project for the fullfillment of the academic course CSE-3208 (Sessional Based On Peripherals and Interfacings) </br></br>
+<b>Course Teacher:</b></br> [S. M. Mahedy Hasan](https://www.cse.ruet.ac.bd/mahedycseruet)</br>
 Assistant Professor</br>
 Computer Science & Engineering</br>
 Rajshahi University of Engineering & Technology
